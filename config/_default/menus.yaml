@@ -1,0 +1,18 @@
+leftnav:
+- identifier: 225e8355-c18f-b7d6-c087-08fa5e786f41
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 7f746b52-cdcf-43d5-9823-fa5e8bd16054
+  name: Instructor Statements
+  pageRef: /pages/syllabus/instrctr_stmts
+  parent: 225e8355-c18f-b7d6-c087-08fa5e786f41
+  weight: 20
+- identifier: f7c08b9c-a33e-ba1a-fdde-7beb2edaf5fd
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: a3071db0-cc59-520a-2a1e-9ceafd1ae8cf
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
